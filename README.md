@@ -3,9 +3,6 @@
 ## Team Name  
 **Data Alchemists**
 
-## Team Leader  
-**Nipun Savkare**
-
 ---
 
 # 🚀 Problem Statement  
